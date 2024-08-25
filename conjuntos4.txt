@@ -1,0 +1,13 @@
+4
+I
+A, F, G, P
+B, G, P, H
+C
+C, L, O, P, N
+BATATA, M, 9, 43
+D
+2, 3, 9, 10
+10, 23, 5, 3
+U
+F, L, A, M
+E, N, G, O
