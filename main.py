@@ -8,7 +8,7 @@ def realizar_operacoes(arquivo_entrada):
     def ordenar(lst):
         return OrderedDict.fromkeys(lst)
 
-    # abre pra o arquivo leitura
+    # abre para fazer a leitura do arquivo
     with open(arquivo_entrada, 'r') as arquivo:
         linhas = arquivo.readlines()
 
